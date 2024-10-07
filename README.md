@@ -618,26 +618,41 @@ var str6 = "!"
   <summary>Output</summary>
 
   ```json
-  {
-    "parent": "111",
-    "name": "node1",
-    "children": [
-      {
-        "name": "node2",
-        "children": [
-          {
-            "name": "node3"
-          },
-          {
-            "name": "node5"
-          }
-        ]
-      },
-      {
-        "name": "node4"
-      }
-    ]
-  }
+{
+  "object_concat1(++)": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "object_concat2{()}": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "object_concat3()": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "str_concat1": "Hello everyone in the future!",
+  "str_concat2": "Hello everyone in the future!",
+  "str_concat3": "6"
+}
   ```
 </details>
 
