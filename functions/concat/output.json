@@ -1,0 +1,45 @@
+{
+  "object_concat1(++)": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "object_concat1(++)": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "object_concat2{()}": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "object_concat3()": {
+    "key1": "value1",
+    "key2": {
+      "key3": "value3"
+    },
+    "key4": "value4",
+    "key5": {
+      "key6": "value6"
+    }
+  },
+  "str_concat1": "Hello everyone in the future!",
+  "str_concat2": "Hello everyone in the future!",
+  "str_concat3": "6"
+}

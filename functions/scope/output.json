@@ -1,0 +1,7 @@
+{
+  "global_var1": "global_var",
+  "global_var2": 100,
+  "global_fun1": "fun1 global_function1",
+  "global_fun2": "fun2 100 global_function2",
+  "global_fun3": "fun3 local_arg local_var nested_var"
+}

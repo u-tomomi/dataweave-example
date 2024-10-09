@@ -1,0 +1,23 @@
+{
+  "arrayLast": "PT0.000029S",
+  "mapLast": "PT0.05794S",
+  "reduceLast": "PT0.035254S",
+  "arrayLast": "PT0.000014S",
+  "mapLast": "PT0.052868S",
+  "reduceLast": "PT0.033769S",
+  "arrayLast": {
+    "id": 99999,
+    "criteria": 71,
+    "yearOfBirth": 1902
+  },
+  "mapLast": {
+    "id": 99999,
+    "criteria": 71,
+    "yearOfBirth": 1902
+  },
+  "reduceLast": {
+    "id": 99999,
+    "criteria": 71,
+    "yearOfBirth": 1902
+  }
+}

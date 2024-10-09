@@ -1,0 +1,14 @@
+{
+  "update_item": {
+    "id": 100000,
+    "criteria": 39,
+    "yearOfBirth": 1911
+  },
+  "add_delete_item": {
+    "id": 100000,
+    "criteria": 39,
+    "yearOfBirth": 1911
+  },
+  "update_item": "PT0.000027S",
+  "add_delete_item": "PT0.000023S"
+}

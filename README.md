@@ -553,14 +553,14 @@
 | [xsiType](https://docs.mulesoft.com/jp/dataweave/latest/dw-core-functions-xsitype) | xsi:type 型属性を作成します。注: XML データ型に便利です。 |
 
 
-|[++](https://www.prostdev.com/post/combining-objects-concatenation-in-dw-2-0)|
-|[オブジェクトデストラクタ{()}](https://www.prostdev.com/post/combining-objects-concatenation-in-dw-2-0) | |
-を使用してオブジェクトを連結することもできます。このアプローチの詳細については、ここを参照してください。また、 $() を使用して文字列を連結する方法については、ここを参照してください。 |
-https://blogs.mulesoft.com/dev-guides/how-to-tutorials/review-concatenation-functions-dataweave/
-https://blogs.mulesoft.com/dev-guides/how-to-tutorials/review-concatenation-functions-dataweave/
+### オブジェクト、文字列の結合
+
+参考ページ
+[Combining Objects: Concatenation in DW 2.0](https://www.prostdev.com/post/combining-objects-concatenation-in-dw-2-0)
+[How to review concatenation functions in DataWeave 2.0](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/review-concatenation-functions-dataweave/)
 
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fmodule_import"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fconcat"><img width="300" src="/images/dwplayground-button.png"><a>
 <details>
   <summary>Input</summary>
   ```json
@@ -807,3 +807,14 @@ var str6 = "!"
   }
   ```
 </details>
+
+
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fupdate_or_delete_add"><img width="300" src="/images/dwplayground-button.png"><a>
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fscope"><img width="300" src="/images/dwplayground-button.png"><a>
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Ffilter_or_groupBy"><img width="300" src="/images/dwplayground-button.png"><a>
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Ffilter_map_or_reduce"><img width="300" src="/images/dwplayground-button.png"><a>
+
