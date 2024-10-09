@@ -560,7 +560,7 @@
 [How to review concatenation functions in DataWeave 2.0](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/review-concatenation-functions-dataweave/)
 
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fconcat"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fconcat"><img width="300" src="/images/dwplayground-button.png"></a>
 <details>
   <summary>Input</summary>
   ```json
@@ -810,11 +810,11 @@ var str6 = "!"
 
 
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fupdate_or_delete_add"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fupdate_or_delete_add"><img width="300" src="/images/dwplayground-button.png"></a>
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fscope"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Fscope"><img width="300" src="/images/dwplayground-button.png"></a>
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Ffilter_or_groupBy"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Ffilter_or_groupBy"><img width="300" src="/images/dwplayground-button.png"></a>
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Ffilter_map_or_reduce"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=u-tomomi%2Fdataweave-example&path=functions%2Ffilter_map_or_reduce"><img width="300" src="/images/dwplayground-button.png"></a>
 
